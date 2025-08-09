@@ -1,6 +1,6 @@
 // Example food items
 const foodItems = [
-    { name: "Burger", price: "$5.99", image: "https://www.shutterstock.com/image-photo/big-sexy-ass-belly-beautiful-600nw-615877016.jpg" },
+    { name: "Burger", price: "$5.99", image: "https://via.placeholder.com/150" },
     { name: "Pizza", price: "$8.99", image: "https://via.placeholder.com/150" },
     { name: "Pasta", price: "$7.50", image: "https://via.placeholder.com/150" },
     { name: "Salad", price: "$4.25", image: "https://via.placeholder.com/150" },
